@@ -4,10 +4,19 @@ static class Program
 {
     //MAIN PROGRAM 
     public static void Main(string[] args) {
-        Ejercicio1();  
-        Ejercicio2();  
-        Ejercicio3();  
-        Ejercicio4();  
+        Console.WriteLine("Ejercicio 1);  
+        Ejercicio1(); 
+                          
+        Console.WriteLine("Ejercicio 2);                    
+        Ejercicio2();
+                          
+        Console.WriteLine("Ejercicio 3);                    
+        Ejercicio3();
+
+        Console.WriteLine("Ejercicio 4);                    
+        Ejercicio4(); 
+
+        Console.WriteLine("Ejercicio 5);                    
         Ejercicio5();        
     }
 
