@@ -4,6 +4,10 @@ static class Program
 {
     //MAIN PROGRAM 
     public static void Main(string[] args) {
+        Ejercicio1();  
+        Ejercicio2();  
+        Ejercicio3();  
+        Ejercicio4();  
         Ejercicio5();        
     }
 
