@@ -1,0 +1,14 @@
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\bin\Debug\net8.0\Examen.exe
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\bin\Debug\net8.0\Examen.deps.json
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\bin\Debug\net8.0\Examen.dll
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\bin\Debug\net8.0\Examen.pdb
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.dll
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\refint\Examen.dll
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.pdb
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+D:\CAMILA UNIVERSIDAD\InformaciónCamila\Quinto-Sexto Semestre\PROGRAMACION WEB AV\PRIMER PARCIAL\Examen\obj\Debug\net8.0\ref\Examen.dll
